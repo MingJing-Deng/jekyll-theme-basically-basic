@@ -16,9 +16,9 @@
 lang: zh-CN
 title: deng ming jing 的jekyll网站
 email: 1652008309@qq.com
-description:
+description: 邓铭晶的jekyll网站
 baseurl: "dmj"  # the optional subpath of your site, e.g. "/blog"
-url: " https://mj-mingjing.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://mj-mingjing.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: 邓铭晶
   twitter:
