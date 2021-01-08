@@ -1,5 +1,5 @@
 ---
-layout: about me
+layout: about
 title: 关于我
 ---
 
