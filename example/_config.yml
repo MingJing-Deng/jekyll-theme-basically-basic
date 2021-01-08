@@ -25,7 +25,7 @@ author:
   picture: /assets/images/johndoe.png
 twitter_username: Towlette_Pettetucci
 github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
+logo:  "/assets/images/xiao xiang.jpg" 
 search: true
 search_full_content: true
 search_provider: algolia
