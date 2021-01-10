@@ -1,11 +1,9 @@
 ---
 title: 会转动的谷歌浏览器图标可见过？
-layout: page
 excerpt_separator: "<!--more-->"
 categories: 
      - SVG笔记
-tags: 
-     - SVG笔记
+
 ---
 
 
