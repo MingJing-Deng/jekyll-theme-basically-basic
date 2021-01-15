@@ -13,7 +13,7 @@ image: assets/images/banner  about me.jpg
 - 担任网络与新媒体2班班长
 
 ### 个人项目
-#### [项目一]第一个自己制作的网页 https://mj-mingjing.gitee.io/resume 
+#### [项目一]第一个自己制作的网页 [个人主页](https://mj-mingjing.gitee.io/resume ) 
 - [目的]制作个人主页
 - [成就]完成第一个自己做的网页
 - [收益]学会了HTML5和CSS3的应用
